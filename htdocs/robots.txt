@@ -1,0 +1,3 @@
+# robots.txt pour le site en développement : rien ne sera indexé
+User-agent: *
+Disallow:
